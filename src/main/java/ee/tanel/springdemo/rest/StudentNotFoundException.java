@@ -1,6 +1,11 @@
-package com.luv2code.springdemo.rest;
+package ee.tanel.springdemo.rest;
 
 public class StudentNotFoundException extends RuntimeException {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1698807995923929200L;
 
 	public StudentNotFoundException(String message, Throwable cause) {
 		super(message, cause);

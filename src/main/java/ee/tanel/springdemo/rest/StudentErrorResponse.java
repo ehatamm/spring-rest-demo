@@ -1,4 +1,4 @@
-package com.luv2code.springdemo.rest;
+package ee.tanel.springdemo.rest;
 
 public class StudentErrorResponse {
 	
